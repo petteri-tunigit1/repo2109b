@@ -1,1 +1,3 @@
 Taas uusi tiedosto - file5.
+
+Paikallinen Muutos. Tulee konflikti ...
