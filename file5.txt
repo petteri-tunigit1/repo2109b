@@ -1,3 +1,4 @@
 Taas uusi tiedosto - file5.
 
-Muutos githubissa ... konflikti tulee.
+Kumpikin huono. Uusi rivi korvatkoon ...
+
