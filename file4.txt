@@ -1,3 +1,5 @@
 Jotain tekstiä tänne.
 
 Ja vielä lisää ...
+
+Tehdään konflikti. Paikallinen muutos.
